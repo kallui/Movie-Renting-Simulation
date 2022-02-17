@@ -1,0 +1,492 @@
+======
+Customer: qwe
+Apr 02,2020 - 15:13
+0,19
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+Angst                                         6.06
+
+Total                                        12.06
+======
+Customer: qwe
+Apr 02,2020 - 15:15
+0,19
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+Angst                                         6.06
+
+Total                                        12.06
+======
+Customer: qwe
+Apr 02,2020 - 15:19
+0,19
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+Angst                                         6.06
+
+Total                                        12.06
+======
+Customer: qwe
+Apr 02,2020 - 15:25
+0,19
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+Angst                                         6.06
+
+Total                                        12.06
+======
+Customer: qwe
+Apr 02,2020 - 15:26
+2,4
+Movie title                               Rent Fee
+Conquest                                      5.77
+Evenings on a Farm near Dikanka               9.75
+
+Total                                        15.52
+======
+Customer: niko
+Apr 02,2020 - 16:11
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: qwe
+Apr 02,2020 - 16:31
+0,19
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+Angst                                         6.06
+
+Total                                        12.06
+======
+Customer: NIKO
+Apr 02,2020 - 16:33
+0,19
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+Angst                                         6.06
+
+Total                                        12.06
+======
+Customer: NIKO
+Apr 02,2020 - 16:36
+0,19
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+Angst                                         6.06
+
+Total                                        12.06
+======
+Customer: NIKO
+Apr 02,2020 - 16:38
+0,19
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+Angst                                         6.06
+
+Total                                        12.06
+======
+Customer: NIKO
+Apr 02,2020 - 16:38
+0,19
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+Angst                                         6.06
+
+Total                                        12.06
+======
+Customer: niko
+Apr 02,2020 - 18:02
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: jon
+Apr 02,2020 - 18:03
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: jason
+Apr 02,2020 - 18:09
+0,5
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+Telling You                                   6.05
+
+Total                                        12.05
+======
+Customer: jon
+Apr 02,2020 - 18:11
+18
+Movie title                               Rent Fee
+I Travel Alone                                7.37
+
+Total                                         7.37
+======
+Customer: niko
+Apr 02,2020 - 18:12
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: niko
+Apr 02,2020 - 18:12
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: jason
+Apr 02,2020 - 18:12
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: niko
+Apr 02,2020 - 19:11
+6
+Movie title                               Rent Fee
+What Happened, Miss Simone?                   9.05
+
+Total                                         9.05
+======
+Customer: niko
+Apr 02,2020 - 19:11
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: niko
+Apr 02,2020 - 19:15
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: jon
+Apr 02,2020 - 19:16
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: niko
+Apr 02,2020 - 19:17
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: jason
+Apr 02,2020 - 19:18
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: Nikolas
+Apr 02,2020 - 19:20
+0
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+
+Total                                         6.00
+======
+Customer: nikolas
+Apr 02,2020 - 19:20
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: Niko
+Apr 02,2020 - 21:04
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: niko
+Apr 02,2020 - 21:04
+1
+Movie title                               Rent Fee
+Life and Adventures of Santa Claus, The       4.30
+
+Total                                         4.30
+======
+Customer: niko
+Apr 02,2020 - 21:05
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: niko
+Apr 02,2020 - 21:06
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: niko
+Apr 02,2020 - 21:07
+2
+Movie title                               Rent Fee
+Conquest                                      5.77
+
+Total                                         5.77
+======
+Customer: niko
+Apr 02,2020 - 21:09
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: Jon
+Apr 02,2020 - 21:12
+0
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+
+Total                                         6.00
+======
+Customer: jon
+Apr 02,2020 - 21:18
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: niko
+Apr 02,2020 - 21:38
+19
+Movie title                               Rent Fee
+Angst                                         6.06
+
+Total                                         6.06
+======
+Customer: niko
+Apr 02,2020 - 21:40
+18
+Movie title                               Rent Fee
+I Travel Alone                                7.37
+
+Total                                         7.37
+======
+Customer: NIKO
+Apr 02,2020 - 21:40
+18
+Movie title                               Rent Fee
+I Travel Alone                                7.37
+
+Total                                         7.37
+======
+Customer: nikO
+Apr 02,2020 - 21:41
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: niko
+Apr 02,2020 - 21:56
+17
+Movie title                               Rent Fee
+Princess and the Pony                         8.42
+
+Total                                         8.42
+======
+Customer: jon
+Apr 02,2020 - 22:01
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: niko
+Apr 02,2020 - 22:02
+0
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+
+Total                                         6.00
+======
+Customer: niko
+Apr 02,2020 - 22:02
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: niko
+Apr 02,2020 - 22:03
+0
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+
+Total                                         6.00
+======
+Customer: jon
+Apr 02,2020 - 22:03
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: niko
+Apr 02,2020 - 22:03
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: niko
+Apr 02,2020 - 22:04
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: qwe
+Apr 02,2020 - 22:22
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: qew
+Apr 02,2020 - 22:25
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: qwe
+Apr 02,2020 - 22:38
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: qwe 
+Apr 02,2020 - 22:39
+0,19
+Movie title                               Rent Fee
+Capture of Bigfoot, The                       6.00
+Angst                                         6.06
+
+Total                                        12.06
+======
+Customer: QWE
+Apr 02,2020 - 22:39
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: qwe
+Apr 02,2020 - 22:40
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: qwe 
+Apr 02,2020 - 22:42
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: qwe
+Apr 02,2020 - 22:42
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: ew
+Apr 02,2020 - 22:43
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: annisa
+Apr 02,2020 - 22:43
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: annisa
+Apr 02,2020 - 22:43
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: annisa 
+Apr 02,2020 - 22:44
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: qwe
+Apr 02,2020 - 22:46
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: qwe
+Apr 02,2020 - 22:48
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: Jason Jonathan
+Apr 02,2020 - 22:53
+11
+Movie title                               Rent Fee
+Dune                                          7.48
+
+Total                                         7.48
+======
+Customer: Jason Jonathan
+Apr 02,2020 - 22:55
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: qwe
+Apr 02,2020 - 23:16
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: qwe
+Apr 02,2020 - 23:53
+
+Movie title                               Rent Fee
+
+Total                                         0.00
+======
+Customer: qwe
+Apr 03,2020 - 00:18
+
+Movie title                               Rent Fee
+
+Total                                         0.00
